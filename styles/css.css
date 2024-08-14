@@ -216,6 +216,20 @@ justify-content: flex-start;
 align-items: center;
 padding: 0px;
 }
+.s-div-new
+{
+    margin-left: 200px;
+    width: 1044px;
+    height: 520px;
+    left: 198px;
+    top: 815px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0px; 
+    
+}
 .s-div-2
 {
 width: 510px;
