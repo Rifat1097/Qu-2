@@ -80,7 +80,7 @@
 
 .h1-2 {
     font-family: 'Inter', sans-serif;
-    font-size: 4.9rem;
+    font-size: 5rem;
     font-weight: 900;
     line-height: 120%;
     letter-spacing: 0%;
@@ -89,9 +89,15 @@
 }
 
 #shape {
-    font-family: 'Miama', sans-serif;                                       
+    font-family: 'Miama',sans-serif;                                      
     color: rgba(255, 255, 255, 0.7);
     font-weight: 900;
+    font-size: 4.9rem;
+    font-weight: 900;
+    line-height: 120%;
+    letter-spacing: 0%;
+    text-align: left;
+    color: rgb(255, 255, 255);
 }
 
 .div-3 {
